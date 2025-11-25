@@ -4,12 +4,11 @@
 ## I'm a Full-Stack Developer!!
 
 - 🔭 I’m currently working on improving my coding skills.
-- 🌱 I’m currently learning oop , mcv , laravel.
+- 🌱 I’m currently learning node.js typeScript
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything!!
 - 📫 Reach me on: kareemmamdouh54@gmail.com !!
-- 🥅 2021 Goals: Make more projects!
-- ⚡ Fun fact: i like playing football $ watching movies 🤣
+- 🥅 2025 Goals: Make more projects!
 
 
 ### Spotify Playing 🎧
